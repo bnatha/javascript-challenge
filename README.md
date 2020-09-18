@@ -9,3 +9,10 @@ That's why I was hired! I wrote some code that created a table dynamically based
 I also placed a button to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages I can be trust.
 
 The planet Earth needs to know what we have found!
+
+This repository consists of:
+- index.html
+- app.js
+- data.js
+- CSS stylesheet
+- Images (provided)
