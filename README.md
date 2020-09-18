@@ -1,4 +1,4 @@
-JavaScript Challenge
+# JavaScript Challenge
 
 WAKE UP SHEEPLE! The extra-terrestrial menace had come to Earth and I, as representative of `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All I did was put this information online for the world to see and then the matter was finally put to rest.
 
